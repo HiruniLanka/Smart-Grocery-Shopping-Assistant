@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #eef3f6;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+    margin-top: 40px;
+    background: white;
+    padding: 20px;
+    box-shadow: 0 0 10px gray;
+    border-radius: 8px;
+}
+
+.assistant-box {
+    height: 300px;
+    border: 1px solid #ccc;
+    padding: 15px;
+    overflow-y: scroll;
+    background: #fafafa;
+    margin-bottom: 10px;
+}
+
+#userInput {
+    width: 70%;
+    padding: 10px;
+}
+
+button {
+    padding: 10px 20px;
+}
